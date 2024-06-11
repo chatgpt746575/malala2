@@ -1,0 +1,8 @@
+
+git init
+
+echo -e "Olá, mundo!\nEsta é uma linha de exemplo.\nTudo está funcionando perfeitamente." > example.txt
+
+git add example.txt
+
+git commit -m "Primeiro commit"
